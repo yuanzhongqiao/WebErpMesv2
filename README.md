@@ -1,69 +1,80 @@
-<p align="center">
-    <img src="https://github.com/SMEWebify/WebErpMesv2/assets/75578469/536ad6ff-e27e-41ca-bac1-00c6662ca827">
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/75578469/281910175-536ad6ff-e27e-41ca-bac1-00c6662ca827.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2NDM2NzMsIm5iZiI6MTcxMTY0MzM3MywicGF0aCI6Ii83NTU3ODQ2OS8yODE5MTAxNzUtNTM2YWQ2ZmYtZTI3ZS00MWNhLWJhYzEtMDBjNjY2MmNhODI3LlBORz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI4VDE2MjkzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMyOGRkYWM3ODExNDQ3OTMzMzFlOWUxODBhMzBjNDMzNzZmMzNmMTJkOTk1MDM1YWM1Mjc1MWVhOTcwMzNmMjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.5tZRRQ7uUEn72XoKcMKTL4QBpA-oDyTVePwlfwAZ9is"><img src="https://private-user-images.githubusercontent.com/75578469/281910175-536ad6ff-e27e-41ca-bac1-00c6662ca827.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2NDM2NzMsIm5iZiI6MTcxMTY0MzM3MywicGF0aCI6Ii83NTU3ODQ2OS8yODE5MTAxNzUtNTM2YWQ2ZmYtZTI3ZS00MWNhLWJhYzEtMDBjNjY2MmNhODI3LlBORz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI4VDE2MjkzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMyOGRkYWM3ODExNDQ3OTMzMzFlOWUxODBhMzBjNDMzNzZmMzNmMTJkOTk1MDM1YWM1Mjc1MWVhOTcwMzNmMjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.5tZRRQ7uUEn72XoKcMKTL4QBpA-oDyTVePwlfwAZ9is" style="max-width: 100%;"></a>
 </p>
-
-
-<p align="center">
-  <a href="https://github.com/SMEWebify/WebErpMesv2/blob/WEM-2.0/README.md">English</a> •
-  <a href="https://github.com/SMEWebify/WebErpMesv2/blob/WEM-2.0/docs/README.fr.md">Français</a>
+<p align="center" dir="auto">
+  <a href="https://github.com/SMEWebify/WebErpMesv2/blob/WEM-2.0/README.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">英语</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">•
+  </font></font><a href="https://github.com/SMEWebify/WebErpMesv2/blob/WEM-2.0/docs/README.fr.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">法语</font></font></a>
 </p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为什么是ΣEM？ 🧐</font></font></h1><a id="user-content-why-σem--monocle_face" class="anchor" aria-label="永久链接：为什么是 ΣEM ？ ：单片眼镜脸：" href="#why-σem--monocle_face"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通常，管理系统提供完整的 CRM 和计费管理。但是，如果报价内容和必须制造的内容之间缺少联系。 ΣEM 提供了客户期望与制造车间订单实时状态之间的联系。该项目使用 Laravel 9、Livewire 和 bootstrap 4.6。</font></font></p>
+<p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">任何改进讨论都会有所帮助。 🤗</font></font></p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">演示👀</font></font></h1><a id="user-content-demo-eyes" class="anchor" aria-label="永久链接：演示：眼睛：" href="#demo-eyes"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="http://demo.wem-project.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">演示页面</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">登录：</font></font><a href="mailto:contact@wem-project.org"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">contact@wem-project.org</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">密码： 密码</font></font></p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装👷</font></font></h1><a id="user-content-install-construction_worker" class="anchor" aria-label="永久链接：安装：construction_worker：" href="#install-construction_worker"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如需测试或帮助开发，请点击此链接：</font></font><a href="https://github.com/SMEWebify/WebErpMesv2/wiki/Installation-Steps-(for-dev)"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">wiki 页面（安装到开发人员）</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要运行到生产环境，请点击此链接：   </font></font><a href="https://github.com/SMEWebify/WebErpMesv2/wiki/Installation-Steps-(for-production)"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">wiki 页面（安装以运行）</font></font></a></p>
+<hr>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🏗️ 项目功能，请点击此链接：</font></font><a href="https://github.com/SMEWebify/WebErpMesv2/wiki/Features"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">wiki 页面</font></font></a></p>
+<hr>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/75578469/251289481-07840f20-081d-47d3-b892-14f86b5ecc44.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2NDM2NzMsIm5iZiI6MTcxMTY0MzM3MywicGF0aCI6Ii83NTU3ODQ2OS8yNTEyODk0ODEtMDc4NDBmMjAtMDgxZC00N2QzLWI4OTItMTRmODZiNWVjYzQ0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI4VDE2MjkzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNjODljMzY3ZmQ4MTc1NmEwZTBhZTBhYjIwZjY2OTg0ODI5NjFmNGVlZGZlOWVkZDYxZGJmNmFiMDBiOTVlZGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.0_XsVhzxaRYFnHUEa0vqJmw7nq9bm1ijpifNYYrz3lo"><img src="https://private-user-images.githubusercontent.com/75578469/251289481-07840f20-081d-47d3-b892-14f86b5ecc44.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2NDM2NzMsIm5iZiI6MTcxMTY0MzM3MywicGF0aCI6Ii83NTU3ODQ2OS8yNTEyODk0ODEtMDc4NDBmMjAtMDgxZC00N2QzLWI4OTItMTRmODZiNWVjYzQ0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI4VDE2MjkzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNjODljMzY3ZmQ4MTc1NmEwZTBhZTBhYjIwZjY2OTg0ODI5NjFmNGVlZGZlOWVkZDYxZGJmNmFiMDBiOTVlZGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.0_XsVhzxaRYFnHUEa0vqJmw7nq9bm1ijpifNYYrz3lo" alt="图像" style="max-width: 100%;"></a></p>
+<details open="" class="details-reset border rounded-2">
+  <summary class="px-3 py-2">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-camera-video">
+    <path d="M16 3.75v8.5a.75.75 0 0 1-1.136.643L11 10.575v.675A1.75 1.75 0 0 1 9.25 13h-7.5A1.75 1.75 0 0 1 0 11.25v-6.5C0 3.784.784 3 1.75 3h7.5c.966 0 1.75.784 1.75 1.75v.675l3.864-2.318A.75.75 0 0 1 16 3.75Zm-6.5 1a.25.25 0 0 0-.25-.25h-7.5a.25.25 0 0 0-.25.25v6.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-6.5ZM11 8.825l3.5 2.1v-5.85l-3.5 2.1Z"></path>
+</svg>
+    <span aria-label="视频描述 Lead2Opp.mp4" class="m-1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Lead2Opp.mp4</font></font></span>
+    <span class="dropdown-caret"></span>
+  </summary>
 
+  <video src="https://private-user-images.githubusercontent.com/75578469/303760306-8e2dff79-5ddf-4c56-b5e2-b845f7e91158.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2NDM2NzMsIm5iZiI6MTcxMTY0MzM3MywicGF0aCI6Ii83NTU3ODQ2OS8zMDM3NjAzMDYtOGUyZGZmNzktNWRkZi00YzU2LWI1ZTItYjg0NWY3ZTkxMTU4Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI4VDE2MjkzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZiN2JhNDJlYzk2YWRlMDYzODI3ZDE4YWE2OGI0ZTg4NTE1YmMwYWQ5NTQ3YjI2OTk0ZDE2NTJjYTJlOWRjYjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.HwEx7mtHK9QDkA3FjvY7EoDJ0CV_vNsChL5Fa2ZVeeY" data-canonical-src="https://private-user-images.githubusercontent.com/75578469/303760306-8e2dff79-5ddf-4c56-b5e2-b845f7e91158.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2NDM2NzMsIm5iZiI6MTcxMTY0MzM3MywicGF0aCI6Ii83NTU3ODQ2OS8zMDM3NjAzMDYtOGUyZGZmNzktNWRkZi00YzU2LWI1ZTItYjg0NWY3ZTkxMTU4Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI4VDE2MjkzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZiN2JhNDJlYzk2YWRlMDYzODI3ZDE4YWE2OGI0ZTg4NTE1YmMwYWQ5NTQ3YjI2OTk0ZDE2NTJjYTJlOWRjYjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.HwEx7mtHK9QDkA3FjvY7EoDJ0CV_vNsChL5Fa2ZVeeY" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
 
+  </video>
+</details>
 
-# Why ΣEM ? :monocle_face:
+<details open="" class="details-reset border rounded-2">
+  <summary class="px-3 py-2">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-camera-video">
+    <path d="M16 3.75v8.5a.75.75 0 0 1-1.136.643L11 10.575v.675A1.75 1.75 0 0 1 9.25 13h-7.5A1.75 1.75 0 0 1 0 11.25v-6.5C0 3.784.784 3 1.75 3h7.5c.966 0 1.75.784 1.75 1.75v.675l3.864-2.318A.75.75 0 0 1 16 3.75Zm-6.5 1a.25.25 0 0 0-.25-.25h-7.5a.25.25 0 0 0-.25.25v6.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-6.5ZM11 8.825l3.5 2.1v-5.85l-3.5 2.1Z"></path>
+</svg>
+    <span aria-label="视频描述 Opp2Quote.mp4" class="m-1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Opp2Quote.mp4</font></font></span>
+    <span class="dropdown-caret"></span>
+  </summary>
 
-Often, management systems offer full CRM and billing management. But if a link is missing between what is quoted and what must be manufactured. ΣEM offers a link between what the customer expects and a real-time status of the order in the manufacturing workshop. This project using Laravel 9, Livewire and bootstrap 4.6.
+  <video src="https://private-user-images.githubusercontent.com/75578469/303760332-f9e8e8b2-e492-4bd3-9ebc-b90b20267962.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2NDM2NzMsIm5iZiI6MTcxMTY0MzM3MywicGF0aCI6Ii83NTU3ODQ2OS8zMDM3NjAzMzItZjllOGU4YjItZTQ5Mi00YmQzLTllYmMtYjkwYjIwMjY3OTYyLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI4VDE2MjkzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE0NjAzMjBhOWUxYjlkNzY3OTcwM2ExYTY4MDMzNjYzYmIzZDY3ODMwM2UwZjc4YTVmMDk3YmJiMTAwMzM1YzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.QVEOiXRmSEXTJXOwKVCczvmdL6PiWspCJXHoyIyZh5k" data-canonical-src="https://private-user-images.githubusercontent.com/75578469/303760332-f9e8e8b2-e492-4bd3-9ebc-b90b20267962.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2NDM2NzMsIm5iZiI6MTcxMTY0MzM3MywicGF0aCI6Ii83NTU3ODQ2OS8zMDM3NjAzMzItZjllOGU4YjItZTQ5Mi00YmQzLTllYmMtYjkwYjIwMjY3OTYyLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI4VDE2MjkzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE0NjAzMjBhOWUxYjlkNzY3OTcwM2ExYTY4MDMzNjYzYmIzZDY3ODMwM2UwZjc4YTVmMDk3YmJiMTAwMzM1YzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.QVEOiXRmSEXTJXOwKVCczvmdL6PiWspCJXHoyIyZh5k" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
 
+  </video>
+</details>
 
-<p align="center">Any improvement discussion would be helpful. :hugs:</p>
+<details open="" class="details-reset border rounded-2">
+  <summary class="px-3 py-2">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-camera-video">
+    <path d="M16 3.75v8.5a.75.75 0 0 1-1.136.643L11 10.575v.675A1.75 1.75 0 0 1 9.25 13h-7.5A1.75 1.75 0 0 1 0 11.25v-6.5C0 3.784.784 3 1.75 3h7.5c.966 0 1.75.784 1.75 1.75v.675l3.864-2.318A.75.75 0 0 1 16 3.75Zm-6.5 1a.25.25 0 0 0-.25-.25h-7.5a.25.25 0 0 0-.25.25v6.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-6.5ZM11 8.825l3.5 2.1v-5.85l-3.5 2.1Z"></path>
+</svg>
+    <span aria-label="视频说明 Quote2Order.mp4" class="m-1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">报价2订单.mp4</font></font></span>
+    <span class="dropdown-caret"></span>
+  </summary>
 
-# Demo :eyes:
+  <video src="https://private-user-images.githubusercontent.com/75578469/303760404-f6804d4c-4fb2-455c-aaa3-b07bbe883faf.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2NDM2NzMsIm5iZiI6MTcxMTY0MzM3MywicGF0aCI6Ii83NTU3ODQ2OS8zMDM3NjA0MDQtZjY4MDRkNGMtNGZiMi00NTVjLWFhYTMtYjA3YmJlODgzZmFmLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI4VDE2MjkzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUxMmE4OGVlMjdjNmE4MjU5ZWU4ZDZkZGUzZDc1OWEzZWIzMDIwY2Y2YmY5MDljNWJjMjRjMWZlOWU3NDJhMjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.QOOJh4EATGTZf28cNATTfsUVcnfoQKW8ac0KvDWAywM" data-canonical-src="https://private-user-images.githubusercontent.com/75578469/303760404-f6804d4c-4fb2-455c-aaa3-b07bbe883faf.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2NDM2NzMsIm5iZiI6MTcxMTY0MzM3MywicGF0aCI6Ii83NTU3ODQ2OS8zMDM3NjA0MDQtZjY4MDRkNGMtNGZiMi00NTVjLWFhYTMtYjA3YmJlODgzZmFmLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI4VDE2MjkzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUxMmE4OGVlMjdjNmE4MjU5ZWU4ZDZkZGUzZDc1OWEzZWIzMDIwY2Y2YmY5MDljNWJjMjRjMWZlOWU3NDJhMjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.QOOJh4EATGTZf28cNATTfsUVcnfoQKW8ac0KvDWAywM" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
 
-[Demo page](http://demo.wem-project.org) 
+  </video>
+</details>
 
-login : contact@wem-project.org 
+<details open="" class="details-reset border rounded-2">
+  <summary class="px-3 py-2">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-camera-video">
+    <path d="M16 3.75v8.5a.75.75 0 0 1-1.136.643L11 10.575v.675A1.75 1.75 0 0 1 9.25 13h-7.5A1.75 1.75 0 0 1 0 11.25v-6.5C0 3.784.784 3 1.75 3h7.5c.966 0 1.75.784 1.75 1.75v.675l3.864-2.318A.75.75 0 0 1 16 3.75Zm-6.5 1a.25.25 0 0 0-.25-.25h-7.5a.25.25 0 0 0-.25.25v6.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-6.5ZM11 8.825l3.5 2.1v-5.85l-3.5 2.1Z"></path>
+</svg>
+    <span aria-label="视频说明 Order2Task.mp4" class="m-1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">订单2任务.mp4</font></font></span>
+    <span class="dropdown-caret"></span>
+  </summary>
 
-Password : password
+  <video src="https://private-user-images.githubusercontent.com/75578469/303760439-6ed63bf6-c08b-477f-8147-f91aeeb3d922.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2NDM2NzMsIm5iZiI6MTcxMTY0MzM3MywicGF0aCI6Ii83NTU3ODQ2OS8zMDM3NjA0MzktNmVkNjNiZjYtYzA4Yi00NzdmLTgxNDctZjkxYWVlYjNkOTIyLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI4VDE2MjkzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI0ODQ3YWE2MjBkODQ1OWYzYzRmMTg2OWI1ZDUwNmU2ZWMxNjA1ZTI1YTk0NmRkZDgzNTg4OWUwNWQwMWY5ZjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.rYEzDfre-SPKW2sdngT5JZt26lv4XbY8aPMPs6cI1V0" data-canonical-src="https://private-user-images.githubusercontent.com/75578469/303760439-6ed63bf6-c08b-477f-8147-f91aeeb3d922.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2NDM2NzMsIm5iZiI6MTcxMTY0MzM3MywicGF0aCI6Ii83NTU3ODQ2OS8zMDM3NjA0MzktNmVkNjNiZjYtYzA4Yi00NzdmLTgxNDctZjkxYWVlYjNkOTIyLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI4VDE2MjkzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI0ODQ3YWE2MjBkODQ1OWYzYzRmMTg2OWI1ZDUwNmU2ZWMxNjA1ZTI1YTk0NmRkZDgzNTg4OWUwNWQwMWY5ZjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.rYEzDfre-SPKW2sdngT5JZt26lv4XbY8aPMPs6cI1V0" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
 
-# Install :construction_worker:
-for test or help to develop follow this link : [wiki page (install to dev)](https://github.com/SMEWebify/WebErpMesv2/wiki/Installation-Steps-(for-dev))
+  </video>
+</details>
 
-for run to production, follow this link :  [wiki page (install to run)](https://github.com/SMEWebify/WebErpMesv2/wiki/Installation-Steps-(for-production))
-
------------------
-
-:building_construction: Project Feature, follow this link : [wiki page](https://github.com/SMEWebify/WebErpMesv2/wiki/Features)
-  
------------------
-
-![image](https://github.com/SMEWebify/WebErpMesv2/assets/75578469/07840f20-081d-47d3-b892-14f86b5ecc44)
-
-
-
-https://github.com/SMEWebify/WebErpMesv2/assets/75578469/8e2dff79-5ddf-4c56-b5e2-b845f7e91158
-
-
-https://github.com/SMEWebify/WebErpMesv2/assets/75578469/f9e8e8b2-e492-4bd3-9ebc-b90b20267962
-
-
-
-https://github.com/SMEWebify/WebErpMesv2/assets/75578469/f6804d4c-4fb2-455c-aaa3-b07bbe883faf
-
-
-
-
-https://github.com/SMEWebify/WebErpMesv2/assets/75578469/6ed63bf6-c08b-477f-8147-f91aeeb3d922
-
-
-
-Quality
-![image](https://github.com/SMEWebify/WebErpMesv2/assets/75578469/5510ee89-2257-4906-94f5-273cf8315322)
-
-
-
-
-
-
-
-
-
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">质量
+</font></font><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/75578469/286974832-5510ee89-2257-4906-94f5-273cf8315322.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2NDM2NzMsIm5iZiI6MTcxMTY0MzM3MywicGF0aCI6Ii83NTU3ODQ2OS8yODY5NzQ4MzItNTUxMGVlODktMjI1Ny00OTA2LTk0ZjUtMjczY2Y4MzE1MzIyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI4VDE2MjkzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTEyMjU4OWJlMDZjNTI4NzFiN2M3OGJiZTU5ZWJhNmRhNzBhZjFiMDlmMGFiMDU3ZjcwYTg2M2RjNDA2M2EwNGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.45zMA7L3mcvKmZVu87PjQkxjVhCeEaRIcsZZxBvkXOM"><img src="https://private-user-images.githubusercontent.com/75578469/286974832-5510ee89-2257-4906-94f5-273cf8315322.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2NDM2NzMsIm5iZiI6MTcxMTY0MzM3MywicGF0aCI6Ii83NTU3ODQ2OS8yODY5NzQ4MzItNTUxMGVlODktMjI1Ny00OTA2LTk0ZjUtMjczY2Y4MzE1MzIyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI4VDE2MjkzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTEyMjU4OWJlMDZjNTI4NzFiN2M3OGJiZTU5ZWJhNmRhNzBhZjFiMDlmMGFiMDU3ZjcwYTg2M2RjNDA2M2EwNGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.45zMA7L3mcvKmZVu87PjQkxjVhCeEaRIcsZZxBvkXOM" alt="图像" style="max-width: 100%;"></a></p>
+</article></div>
